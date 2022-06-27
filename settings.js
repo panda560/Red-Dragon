@@ -1,6 +1,6 @@
 //════════════(00)═══════════════════════════════════════//
 //
-//                              K.PRABHASHA
+//                              M.A.F.PRATAMA
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════(00)════════════════//
@@ -21,22 +21,22 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+My Creator is M.A.F.PRATAMA` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+84358850353','+66986609139','+84796102942','+6281959293465','+6281273677810','+6285975075847'] //Owner number in aive msg
+global.premium = ['+6281273677810'] //Owner Number info
+global.ownernomer = '+6281273677810','+84358850353','+66986609139','+84796102942','+6281959293465','+6285975075847' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON' //Bot Name
+global.ownername = 'M.A.F.PRATAMA' //Owner Name
+global.botname = ' ☬PRATAMA༒DRAGON' //Bot Name
 
-global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
-global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
+global.button = '📍@arrezza20' //Costomize A Button Name In Alive Message
+global.btnurl = 'มูฮัมหมัด อาเรซซา ฟาอิซ ปราตามา' //Change Your Button's URL
 
-global.region = 'India, South India, Kerala' //Country Region
+global.region = 'BOYOLALI , JATENG , INDONESIA ' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬PRATAMA༒DRAGON࿐' //Bot Pacage Name
+global.author = 'M.A.F.PRATAMA❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
