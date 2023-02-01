@@ -23,27 +23,27 @@ global.APIKeys = {
 global.alivemsg = `My name is RED DRAGON🔥
 My Creator is M.A.F.PRATAMA` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+84358850353','+66986609139','+84796102942','+6281959293465','+6281273677810','+6285975075847'] //Owner number in aive msg
+global.owner = ['+855389162590','+6282181337337','+6285609467937','+6281959293465','+6281273677810','+6078102890'] //Owner number in aive msg
 global.premium = ['+6281273677810'] //Owner Number info
-global.ownernomer = '+6281273677810','+84358850353','+66986609139','+84796102942','+6281959293465','+6285975075847' //Owner Number <<<
+global.ownernomer = '+6281273677810','+6285609467937','+6282181337337','+855389162590','+6281959293465','+6078102890' //Owner Number <<<
 
 global.ownername = 'M.A.F.PRATAMA' //Owner Name
-global.botname = ' ☬PRATAMA༒DRAGON' //Bot Name
+global.botname = ' ☬EJYUNOFC²⁴༒DRAGON' //Bot Name
 
 global.button = '📍@arrezza20' //Costomize A Button Name In Alive Message
 global.btnurl = 'มูฮัมหมัด อาเรซซา ฟาอิซ ปราตามา' //Change Your Button's URL
 
 global.region = 'BOYOLALI , JATENG , INDONESIA ' //Country Region
 
-global.packname = '☬PRATAMA༒DRAGON࿐' //Bot Pacage Name
+global.packname = '☬EJYUNOFC²⁴༒DRAGON࿐' //Bot Pacage Name
 global.author = 'M.A.F.PRATAMA❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
-global.footer = '©_Kumuthu.' // DO NOT CHANGE!
+global.ig = 'https://github.com/panda560' //Github Account!
+global.footer = '©_ReYun.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
